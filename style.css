@@ -75,7 +75,7 @@ body {
   body {
     background-image: url('strawberries2.jpg');
     background-position: center;
-    
+    Background-size: 100%;
   }
 
   .photo {
