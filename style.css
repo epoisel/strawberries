@@ -73,6 +73,7 @@ body {
 
 @media (max-width:640px) {
   body {
+    background-image: url('strawberries2.jpg');
     background-attachment:initial;
     background-position: center;
     background-size: 640px;
