@@ -74,7 +74,7 @@ body {
 @media (max-width:640px) {
   body {
     background-position: center;
-    Background-size: 100%;
+    Background-repeat: no-repeat;
   }
 
   .photo {
