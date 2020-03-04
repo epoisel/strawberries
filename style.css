@@ -76,6 +76,7 @@ body {
     background: initial;
     background-position: center-top;
     Background-repeat: no-repeat;
+    Background-size: 640px auto;
   }
 
   .photo {
