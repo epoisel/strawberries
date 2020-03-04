@@ -73,7 +73,6 @@ body {
 
 @media (max-width:640px) {
   body {
-    background-image: url('strawberries2.jpg');
     background-position: center;
     Background-size: 100%;
   }
