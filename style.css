@@ -73,7 +73,8 @@ body {
 
 @media (max-width:640px) {
   body {
-    background-position: center;
+    background: initial;
+    background-position: center-top;
     Background-repeat: no-repeat;
   }
 
